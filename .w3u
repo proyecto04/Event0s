@@ -1,0 +1,48 @@
+{"name": "REPLAY TV",
+"image":"https://yourclubox.com/box/Logos/img1.png",
+"author": "EvEntOs De hOy",
+"stations": [
+
+{"name":"EVENTO 01", 
+"info":"Canal 01",
+"image":"https://img2.gratispng.com/20180213/buw/kisspng-football-royalty-free-stock-photography-clip-art-vector-football-5a82881c68dfb9.4983445915185039644296.jpg", 
+"url":"https://oha.to/play/2881668464/index.m3u8"},
+
+{"name":"EVENTO 02",
+"info":"Canal 02",
+ "image":"https://img2.gratispng.com/20180213/buw/kisspng-football-royalty-free-stock-photography-clip-art-vector-football-5a82881c68dfb9.4983445915185039644296.jpg", 
+"url":"https://vlink.lol/vfm/play/etelio/REPLAY/PELICULAS/Estrenos_2024/promo.mp4"},
+
+{"name":"EVENTO 03", 
+"info":"Canal 03",
+"image":"https://img2.gratispng.com/20180213/buw/kisspng-football-royalty-free-stock-photography-clip-art-vector-football-5a82881c68dfb9.4983445915185039644296.jpg", 
+"url":"https://vlink.lol/vfm/play/etelio/REPLAY/PELICULAS/Estrenos_2024/promo.mp4"},
+
+{"name":"EVENTO 04", 
+"info":"Canal 04",
+"image":"https://img2.gratispng.com/20180213/buw/kisspng-football-royalty-free-stock-photography-clip-art-vector-football-5a82881c68dfb9.4983445915185039644296.jpg", 
+"url":"https://vlink.lol/vfm/play/etelio/REPLAY/PELICULAS/Estrenos_2024/promo.mp4"},
+
+{"name":"EVENTO 05", 
+"info":"Canal 05",
+"image":"https://img2.gratispng.com/20180213/buw/kisspng-football-royalty-free-stock-photography-clip-art-vector-football-5a82881c68dfb9.4983445915185039644296.jpg", 
+"url":"https://vlink.lol/vfm/play/etelio/REPLAY/PELICULAS/Estrenos_2024/promo.mp4"},
+
+{"name":"EVENTO 06", 
+"info":"Canal 06",
+"image":"https://img2.gratispng.com/20180213/buw/kisspng-football-royalty-free-stock-photography-clip-art-vector-football-5a82881c68dfb9.4983445915185039644296.jpg", 
+"url":"https://vlink.lol/vfm/play/etelio/REPLAY/PELICULAS/Estrenos_2024/promo.mp4"},
+
+{"name":"FUTBOL LIBRE",
+"info":"solo celulares",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdf21-xsRt2u7UeL5pB-fCSQcl3oEc45AKKA&usqp=CAU",
+"url":"https://librefutbol.su/",
+"embed": "true",
+"isHost": "true"},
+
+{"name":"HD MATCH",
+"info":"solo celulares",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdf21-xsRt2u7UeL5pB-fCSQcl3oEc45AKKA&usqp=CAU",
+"url":"https://hdmatch.club",
+"embed": "true",
+"isHost": "true"}]},
